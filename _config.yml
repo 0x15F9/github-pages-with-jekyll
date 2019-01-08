@@ -1,15 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+---
+title: "Hello World"
+date: 2019-01-08
+---
+title: Welcome to my Developer Landing Page!
+author: Isfaaq
+email: isfaaqg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Isfaaq Goomany's Github page.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @_Isfaaq_
+github_username:  Isfaaq
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-architect
+theme: minima
